@@ -64,4 +64,4 @@ TFM - Proyecto Easy Money: enfocado en el análisis y segmentación de clientes 
 * Evaluación y Optimización del Modelo - Validación de clustering, iteración y ajuste de parámetros y prueba de nuevas características
 * Aplicación de la Segmentación en Estrategias de Negocio - Personalización de ofertas, optimización del customer lifetime value (CLV) y Estrategias de retención
 * Análisis de Profit y Rentabilidad - Cálculo del Profit por Cliente, Análisis del Profit por Cluster, Visualización del Profit
-* Presentación de Resultados - Generación de Reportes, Dashboards Interactivos, Recomendaciones Estratégica
+* Presentación de Resultados - Generación de Reportes, Dashboards Interactivos, Recomendaciones Estratégicas
