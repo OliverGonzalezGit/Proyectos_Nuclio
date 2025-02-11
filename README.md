@@ -55,3 +55,13 @@ P5 - Reinforcement Learning
 * Aprendizaje del agente con Q-learning
 * Ajuste de hiperparámetros y de recompensas
 * Resolución del problema
+
+TFM - Proyecto Easy Money: enfocado en el análisis y segmentación de clientes para mejorar la estrategia de marketing y optimizar la rentabilidad de la empresa.
+* Preprocesamiento de datos - Carga y limpieza de datos, conversión de variables, escalado de datos
+* Selección de Variables y Feature Engineering - Selección de Variables numéricas relevantes, creación de variables derivadas y transformaciones matemáticas
+* Clustering de clientes - Selección del método de clustering, elección del número de clusters, entrenamiento del modelo y asignación de clusters
+* Análisis de clusters - Visualización, perfilado y comparación entre clusters
+* Evaluación y Optimización del Modelo - Validación de clustering, iteración y ajuste de parámetros y prueba de nuevas características
+* Aplicación de la Segmentación en Estrategias de Negocio - Personalización de ofertas, optimización del customer lifetime value (CLV) y Estrategias de retención
+* Análisis de Profit y Rentabilidad - Cálculo del Profit por Cliente, Análisis del Profit por Cluster, Visualización del Profit
+* Presentación de Resultados - Generación de Reportes, Dashboards Interactivos, Recomendaciones Estratégica
