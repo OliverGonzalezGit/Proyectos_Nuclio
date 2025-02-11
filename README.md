@@ -59,6 +59,7 @@ P5 - Reinforcement Learning
 TFM - Proyecto Easy Money: enfocado en el análisis y segmentación de clientes para mejorar la estrategia de marketing y optimizar la rentabilidad de la empresa.
 * Preprocesamiento de datos - Carga y limpieza de datos, conversión de variables, escalado de datos
 * Selección de Variables y Feature Engineering - Selección de Variables numéricas relevantes, creación de variables derivadas y transformaciones matemáticas
+* Modelado predictivo - Modelados predictivos para la propensión a la compra
 * Clustering de clientes - Selección del método de clustering, elección del número de clusters, entrenamiento del modelo y asignación de clusters
 * Análisis de clusters - Visualización, perfilado y comparación entre clusters
 * Evaluación y Optimización del Modelo - Validación de clustering, iteración y ajuste de parámetros y prueba de nuevas características
