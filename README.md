@@ -24,8 +24,8 @@ P1 - Data Engineering
 
 P2 - Supervised Machine Learning 
 * Preparación y transformación de los datos.
-* Preprocesamiento, estandardizations y visualización.
-* Function transfromers.
+* Preprocesamiento, estandardización y visualización.
+* Function transformers.
 * Pipeline.
 * Correlaciones entre variables.
 * Data modeling:  Decision Tree, Random Forest, XGBoost, LGBMClassifier.
