@@ -13,6 +13,9 @@
 Proyectos Máster Data Science & IA - Nuclio Digital School - 2024
 
 P1 - Data Engineering
+
+Análisis, limpieza, tratamiento de datos y preprocesado de una base de datos para una empresa del sector del automóvil.
+
 * Python - Variables, funciones, condicionales, iteradores, operadores, listas, diccionarios.
 * Python - Numpy y Pandas Series.
 * Python - Pandas DataFrame + buenas prácticas en Pandas.
@@ -23,6 +26,9 @@ P1 - Data Engineering
 
 
 P2 - Supervised Machine Learning 
+
+Encontrar el mejor modelo de clasificación para la predicción de infección por malware en un dispositivo.
+
 * Preparación y transformación de los datos.
 * Preprocesamiento, estandardización y visualización.
 * Function transformers.
@@ -34,6 +40,9 @@ P2 - Supervised Machine Learning
 * Modelo simplificado y ROC Curve comparison.
 
 P3 - Unsupervised Machine Learning - Benchmark
+
+Competición en Kaggle trabajando un dataset con series temporales multivariantes utilizando modelos como XGBoost, CatBoostRegressor, LGBMRegressor, XGBRegressor.
+
 * Data Imputation
 * EDA
 * Build Time Series Features
@@ -43,6 +52,9 @@ P3 - Unsupervised Machine Learning - Benchmark
 * RMSE
 
 P4 - Deep Learning - Deep Vision
+
+Clasificación de imágenes en el dataset CIFAR100 de Keras con redes pre-entrenadas ResNet50, DenseNet121.
+
 * Keras - CIFAR100
 * Data Loading
 * Data Understanding
@@ -51,12 +63,19 @@ P4 - Deep Learning - Deep Vision
 * ResNet50, DenseNet121
 
 P5 - Reinforcement Learning
+
+Resolución del problema de Frozen lake de OpenAI Gym.
+Documentación: https://www.gymlibrary.dev/environments/toy_text/frozen_lake/
+
 * Definición del entorno
 * Aprendizaje del agente con Q-learning
 * Ajuste de hiperparámetros y de recompensas
 * Resolución del problema
 
-TFM - Proyecto Easy Money: enfocado en el análisis y segmentación de clientes para mejorar la estrategia de marketing y optimizar la rentabilidad de la empresa.
+TFM - Proyecto Easy Money 
+
+Enfocado en el análisis y segmentación de clientes para mejorar la estrategia de marketing y optimizar la rentabilidad de la empresa.
+
 * Preprocesamiento de datos - Carga y limpieza de datos, conversión de variables, escalado de datos
 * Selección de Variables y Feature Engineering - Selección de Variables numéricas relevantes, creación de variables derivadas y transformaciones matemáticas
 * Modelado predictivo - Modelados predictivos para la propensión a la compra
